@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tworzenieweb/repetitive-date-estimator.svg?branch=master)](https://travis-ci.org/tworzenieweb/repetitive-date-estimator)
+
 # Repetitive Date Estimator
 
 Small project to help estimating events that occurs every month on specific timeframe.
