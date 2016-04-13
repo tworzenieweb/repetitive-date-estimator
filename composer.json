@@ -1,6 +1,7 @@
 {
     "name": "tworzenieweb/cyclic-dates",
     "description": "A small tool library for determining the closest interval cycle to context dates",
+    "license": "MIT",
     "authors": [
         {
             "name": "Luke Adamczewski",
