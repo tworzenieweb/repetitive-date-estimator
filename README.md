@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/tworzenieweb/repetitive-date-estimator.svg?branch=master)](https://travis-ci.org/tworzenieweb/repetitive-date-estimator)
 [![Code Climate](https://codeclimate.com/github/tworzenieweb/repetitive-date-estimator/badges/gpa.svg)](https://codeclimate.com/github/tworzenieweb/repetitive-date-estimator)
-
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/tworzenieweb/repetitive-date-estimator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/tworzenieweb/repetitive-date-estimator/?branch=master)
 
 # Repetitive Date Estimator
